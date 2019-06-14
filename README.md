@@ -1,0 +1,3 @@
+# runningAverage
+Running average library
+
