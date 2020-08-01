@@ -1,3 +1,3 @@
 # runningAverage
-Running average library
+Running average library for the Arduino Platform
 
