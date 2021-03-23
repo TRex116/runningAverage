@@ -1,4 +1,4 @@
-# runningAverage
+# Lightweight running average for Arduino like systems
 
 Lightweight running average library for the Arduino Platform
 
